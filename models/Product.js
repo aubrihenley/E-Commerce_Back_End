@@ -39,7 +39,6 @@ Product.init(
     category_id: {
       type: DataTypes.INTEGER,
       references: {
-        //if this doesn't work look at the model: Category -might need to make it a string.
         model: Category,
         key: 'id',
       }  
