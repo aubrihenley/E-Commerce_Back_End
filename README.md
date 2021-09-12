@@ -17,7 +17,7 @@ Install Node.js, followed by 'npm init' on the command line. Then enter 'npm i' 
 ## Usage
 
 [Application Video](https://drive.google.com/file/d/1Zvzh4E3UAGUEGZ-QwKFPWAJEYEz6cTfC/view)  
-[Link to GitHub Repository](https://github.com/aubrihenley/Employee-Tracker)
+[Link to GitHub Repository](https://github.com/aubrihenley/E-Commerce_Back_End)
 
 ## License
 This project is covered by the [MIT](https://choosealicense.com/licenses/mit/) license.
